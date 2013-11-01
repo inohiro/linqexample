@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Books>
+  <Book id="1">
+    <Title>Hello,World</Title>
+    <Authors>
+      <Author id="1">Hiroyuki Inoue</Author>
+    </Authors>
+  </Book>
+
+  <Book id="1">
+    <Title>Hello,World</Title>
+    <Authors>
+      <Author id="1">Hiroyuki Inoue</Author>
+    </Authors>
+  </Book>
+
+  <Book id="1">
+    <Title>Hello,World</Title>
+    <Authors>
+      <Author id="1">Hiroyuki Inoue</Author>
+    </Authors>
+  </Book>
+</Books>
